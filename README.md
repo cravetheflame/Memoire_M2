@@ -13,6 +13,6 @@ Au-delà de son objet d'étude, ce mémoire cherche à évaluer l'intérêt pour
 
 Il fut entièrement réalisé sur R, Rmarkdown, ainsi qu'avec des ajustements en *LateX*. Le résultat donne un code complexe en plusieurs languages, mais avec un contrôle sur la forme important.
 
-Vous trouverez dans le dossier *Codes* des exemples de codes de nettoyage et de création de tableaux statistiques. Les données utilisées étant à accès restreint (voir le site de l'[ADISP](http://www.progedo-adisp.fr/adisp_presentation.php)), aucune base de données n'est fourni avec ce code et il n'a qu'une valeur illustrative.
+Vous trouverez dans le dossier *Codes* un exemple de codes de nettoyage utilisé dans le mémoire. Les données utilisées étant à accès restreint (voir le site de l'[ADISP](http://www.progedo-adisp.fr/adisp_presentation.php)), aucune base de données n'est fourni avec ce code et il n'a qu'une valeur illustrative.
 
 
